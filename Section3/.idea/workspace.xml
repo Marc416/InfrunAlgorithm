@@ -20,19 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc7895a4-d0a3-4e6b-8849-ad8c40c44946" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Section2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section2/06_self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section2/07_self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section2/09_self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Section3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_FIndPalindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section2/.idea/Section2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section2/.idea/Section2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section2/07_Primenum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section2/07_Primenum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Section3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Section3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_FIndPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_FIndPalindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +52,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\InfrunAlgorithm\Section3" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="01_FIndPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -112,23 +111,40 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1837" height="295" key="GridCell.Tab.0.bottom" timestamp="1594738728140">
-      <screen x="3840" y="611" width="1858" height="1080" />
+    <state x="537" y="248" key="FileChooserDialogImpl" timestamp="1594886596757">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state x="537" y="248" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1594886596757" />
+    <state width="905" height="295" key="GridCell.Tab.0.bottom" timestamp="1594889609027">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="905" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1594889609027" />
     <state width="1837" height="295" key="GridCell.Tab.0.bottom/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1594738728140" />
-    <state width="1837" height="295" key="GridCell.Tab.0.center" timestamp="1594738728140">
-      <screen x="3840" y="611" width="1858" height="1080" />
+    <state width="905" height="295" key="GridCell.Tab.0.center" timestamp="1594889609027">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="905" height="295" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1594889609027" />
     <state width="1837" height="295" key="GridCell.Tab.0.center/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1594738728140" />
-    <state width="1837" height="295" key="GridCell.Tab.0.left" timestamp="1594738728140">
-      <screen x="3840" y="611" width="1858" height="1080" />
+    <state width="905" height="295" key="GridCell.Tab.0.left" timestamp="1594889609026">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="905" height="295" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1594889609026" />
     <state width="1837" height="295" key="GridCell.Tab.0.left/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1594738728140" />
-    <state width="1837" height="295" key="GridCell.Tab.0.right" timestamp="1594738728140">
-      <screen x="3840" y="611" width="1858" height="1080" />
+    <state width="905" height="295" key="GridCell.Tab.0.right" timestamp="1594889609027">
+      <screen x="62" y="0" width="1858" height="1080" />
     </state>
+    <state width="905" height="295" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1594889609027" />
     <state width="1837" height="295" key="GridCell.Tab.0.right/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1594738728140" />
+    <state x="259" y="138" key="SettingsEditor" timestamp="1594886641642">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="259" y="138" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1594886641642" />
+    <state x="331" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594889168429">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="331" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080@62.0.1858.1080" timestamp="1594889168429" />
   </component>
 </project>

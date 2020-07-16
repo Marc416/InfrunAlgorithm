@@ -1,13 +1,11 @@
 n = int(input())
-word = [list(input()) for i in range(n)]
-
-for i in word:
-    tmp = ''.join(i).upper()
-    for j in range(i,-1)
-    reverseWord = ''.join(i.sort(reverse=True)).upper()
-    print(tmp, i)
-    if i == reverseWord:
-        print('#% %' % (i + 1, 'YES'))
+for i in range(n):
+    s = input()
+    s = s.upper()
+    size = len(s)
+    for j in range(size // 2):
+        if s[j] != s[-1 - j]:
+            print('#%d No' % (i + 1))
+            break
     else:
-        print('#% %' %(i+1, 'NO'))
-
+        print('#%d Yes' % (i + 1))
