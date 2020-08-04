@@ -9,3 +9,6 @@ for i in range(n):
             break
     else:
         print('#%d Yes' % (i + 1))
+
+
+
