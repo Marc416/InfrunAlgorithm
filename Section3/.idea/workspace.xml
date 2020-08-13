@@ -19,7 +19,36 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc7895a4-d0a3-4e6b-8849-ad8c40c44946" name="Default Changelist" comment="" />
+    <list default="true" id="cc7895a4-d0a3-4e6b-8849-ad8c40c44946" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/06_BingGoMaxSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_AppleTreeDiamond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_GotGoam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_FindMountain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_FindMountain_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_CheckRotateNumb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/01_BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/02_DecisionAlgorithm_CutLan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/03_MusicVideo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/04_Horse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/05_Conference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/05_Conference_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/06_BodyFight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/06_BodyFight_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/07_WareHouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section4/07_WareHouse_self_Fail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Section3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Section3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_SumNumb.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_SumNumb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/11.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +83,8 @@
       <recent name="D:\Github\InfrunAlgorithm\Section3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_SumNumb">
-    <configuration name="01_Self2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11_CheckRotateNumb">
+    <configuration name="08_GotGoam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Section3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Self2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_GotGoam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_ExtractNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_FindMountain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Section3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_ExtractNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_FindMountain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_ArrangeCardReversed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09_FindMountain_self" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Section3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_ArrangeCardReversed.py" />
+      <option name="SCRIPT_NAME" value="G:\Github\InfrunAlgorithm\Section3\09_FindMountain_self.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_MergeTwoLIst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10_Sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Section3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_MergeTwoLIst.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Sudoku.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_SumNumb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11_CheckRotateNumb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Section3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_SumNumb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_CheckRotateNumb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_SumNumb" />
-        <item itemvalue="Python.04_MergeTwoLIst" />
-        <item itemvalue="Python.03_ArrangeCardReversed" />
-        <item itemvalue="Python.02_ExtractNumber" />
-        <item itemvalue="Python.01_Self2" />
+        <item itemvalue="Python.11_CheckRotateNumb" />
+        <item itemvalue="Python.10_Sudoku" />
+        <item itemvalue="Python.09_FindMountain" />
+        <item itemvalue="Python.09_FindMountain_self" />
+        <item itemvalue="Python.08_GotGoam" />
       </list>
     </recent_temporary>
   </component>
@@ -200,37 +229,39 @@
       <screen x="3840" y="611" width="1858" height="1080" />
     </state>
     <state x="4395" y="829" key="#Inspections/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1594902512324" />
-    <state x="537" y="248" key="FileChooserDialogImpl" timestamp="1594886596757">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="4315" y="859" key="FileChooserDialogImpl" timestamp="1596598702642">
+      <screen x="3840" y="611" width="1858" height="1080" />
     </state>
     <state x="537" y="248" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1594886596757" />
-    <state width="905" height="295" key="GridCell.Tab.0.bottom" timestamp="1596519495283">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="4315" y="859" key="FileChooserDialogImpl/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596598702642" />
+    <state width="1837" height="204" key="GridCell.Tab.0.bottom" timestamp="1596643591743">
+      <screen x="3840" y="611" width="1858" height="1080" />
     </state>
     <state width="905" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1596519495283" />
-    <state width="1837" height="295" key="GridCell.Tab.0.bottom/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1594910779067" />
-    <state width="905" height="295" key="GridCell.Tab.0.center" timestamp="1596519495283">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1837" height="204" key="GridCell.Tab.0.bottom/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596643591743" />
+    <state width="1837" height="204" key="GridCell.Tab.0.center" timestamp="1596643591743">
+      <screen x="3840" y="611" width="1858" height="1080" />
     </state>
     <state width="905" height="295" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1596519495283" />
-    <state width="1837" height="295" key="GridCell.Tab.0.center/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1594910779067" />
-    <state width="905" height="295" key="GridCell.Tab.0.left" timestamp="1596519495283">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1837" height="204" key="GridCell.Tab.0.center/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596643591743" />
+    <state width="1837" height="204" key="GridCell.Tab.0.left" timestamp="1596643591743">
+      <screen x="3840" y="611" width="1858" height="1080" />
     </state>
     <state width="905" height="295" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1596519495283" />
-    <state width="1837" height="295" key="GridCell.Tab.0.left/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1594910779067" />
-    <state width="905" height="295" key="GridCell.Tab.0.right" timestamp="1596519495283">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1837" height="204" key="GridCell.Tab.0.left/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596643591743" />
+    <state width="1837" height="204" key="GridCell.Tab.0.right" timestamp="1596643591743">
+      <screen x="3840" y="611" width="1858" height="1080" />
     </state>
     <state width="905" height="295" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1596519495283" />
-    <state width="1837" height="295" key="GridCell.Tab.0.right/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1594910779067" />
+    <state width="1837" height="204" key="GridCell.Tab.0.right/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596643591743" />
     <state x="259" y="138" key="SettingsEditor" timestamp="1594886641642">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="259" y="138" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1594886641642" />
-    <state x="331" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594889168429">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="4109" y="1067" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596540615596">
+      <screen x="3840" y="611" width="1858" height="1080" />
     </state>
     <state x="331" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080@62.0.1858.1080" timestamp="1594889168429" />
+    <state x="4109" y="1067" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596540615596" />
   </component>
 </project>
