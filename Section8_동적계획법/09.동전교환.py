@@ -1,7 +1,7 @@
 # 최소값을 찾는 것이므로 dy에는 큰값으로 저장이 되어야 한다
 # 가방문제와 같으나 최대값이냐 최소값이냐에 따라 다르다
 import sys
-sys.stdin = open('10.txt', 'rt')
+sys.stdin = open('09.txt', 'rt')
 n = int(input())
 coin = list(map(int, input().split()))
 m = int(input())
