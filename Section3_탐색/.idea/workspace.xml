@@ -19,23 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc7895a4-d0a3-4e6b-8849-ad8c40c44946" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Section4_이분탐색/08_타이타닉(그리디)_self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Section5_스택큐해시힙/03_후위표식기만들기_self.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../카카오2020/02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../카카오2020/1.문자열압축.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../카카오2020/2.괄호변환.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_FIndPalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_회문 문자열 검사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_ExtractNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_숫자만 추출.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section4_이분탐색/02_DecisionAlgorithm_CutLan.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section4_이분탐색/02_랜선자르기(결정알고리즘).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section4_이분탐색/03_MusicVideo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section4_이분탐색/03_뮤직비디오 결정알고리즘.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section4_이분탐색/06_BodyFight.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section4_이분탐색/06_씨름선수(그리디).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section4_이분탐색/07_WareHouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section4_이분탐색/07_창고정리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section4_이분탐색/08_Tytanic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section4_이분탐색/08_타이타닉(그리디).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section5_스택큐해시힙/02_IronStick.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section5_스택큐해시힙/02_쇠막대기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section5_스택큐해시힙/03_ChangeInequalitySign.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section5_스택큐해시힙/03_후위표식기만들기.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc7895a4-d0a3-4e6b-8849-ad8c40c44946" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,7 +171,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -223,28 +207,28 @@
     </state>
     <state x="537" y="248" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1597321774350" />
     <state x="4315" y="859" key="FileChooserDialogImpl/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596598702642" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1599303867423">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1599311314917">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599303867423" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599311314917" />
     <state width="905" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1596519495283" />
     <state width="1837" height="204" key="GridCell.Tab.0.bottom/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596643591743" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1599303867422">
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1599311314916">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599303867422" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599311314916" />
     <state width="905" height="295" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1596519495283" />
     <state width="1837" height="204" key="GridCell.Tab.0.center/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596643591743" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1599303867421">
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1599311314916">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599303867421" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599311314916" />
     <state width="905" height="295" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1596519495283" />
     <state width="1837" height="204" key="GridCell.Tab.0.left/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596643591743" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1599303867422">
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1599311314917">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599303867422" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599311314917" />
     <state width="905" height="295" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1596519495283" />
     <state width="1837" height="204" key="GridCell.Tab.0.right/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596643591743" />
     <state x="259" y="138" key="SettingsEditor" timestamp="1594886641642">
