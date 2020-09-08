@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7aa2610-06b4-4066-aa72-95617b9b1095" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01_Self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Self전위.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_Self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_순열구하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_SuspectPermutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_조합순열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_수들의조합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_수들의조합_fail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_인접행렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_경로탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section7/01_최대점수 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_파이썬 환경만들기.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../01_파이썬 환경만들기.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_RecursiveBinaryOutput.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_RecursiveBinaryOutput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_DFS_Setnumb.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_DFS_Setnumb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_PickingRedundantNum.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_중복순열 구하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_ChangeCoin.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_동전교환.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../비전공 탈출 동아리.pptx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fylLefsqxvIoodNwofWLTatoKM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Github\InfrunAlgorithm\Section6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.06_Self">
+    <configuration name="06_Self" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_Self.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11_수들의조합_fail (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_수들의조합_fail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11_수들의조합_fail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="G:\Github\InfrunAlgorithm\Section6\11_수들의조합_fail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_인접행렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_인접행렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13_경로탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_경로탐색.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.06_Self" />
+        <item itemvalue="Python.13_경로탐색" />
+        <item itemvalue="Python.12_인접행렬" />
+        <item itemvalue="Python.11_수들의조합_fail (1)" />
+        <item itemvalue="Python.11_수들의조합_fail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7aa2610-06b4-4066-aa72-95617b9b1095" name="Default Changelist" comment="" />
+      <created>1597198158945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597198158945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4395" y="829" key="#Inspections" timestamp="1597222755536">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state x="4395" y="829" key="#Inspections/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1597222755536" />
+    <state x="4606" y="958" key="FileChooserDialogImpl" timestamp="1597817400467">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state x="4606" y="958" key="FileChooserDialogImpl/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1597817400467" />
+    <state x="1093" y="462" key="FileChooserDialogImpl/65.0.2495.1440/3840.611.1858.1080@65.0.2495.1440" timestamp="1597394907868" />
+    <state width="1837" height="126" key="GridCell.Tab.0.bottom" timestamp="1597898904950">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="126" key="GridCell.Tab.0.bottom/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1597898904950" />
+    <state width="1837" height="126" key="GridCell.Tab.0.center" timestamp="1597898904950">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="126" key="GridCell.Tab.0.center/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1597898904950" />
+    <state width="1837" height="126" key="GridCell.Tab.0.left" timestamp="1597898904950">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="126" key="GridCell.Tab.0.left/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1597898904950" />
+    <state width="1837" height="126" key="GridCell.Tab.0.right" timestamp="1597898904950">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="126" key="GridCell.Tab.0.right/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1597898904950" />
+    <state x="4574" y="1064" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597237286951">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state x="4574" y="1064" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1597237286951" />
+    <state x="355" y="440" width="1373" height="903" key="dock-window-1" timestamp="1597806195154">
+      <screen x="65" y="0" width="2495" height="1440" />
+    </state>
+    <state x="355" y="440" width="1373" height="903" key="dock-window-1/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1597806195154" />
+  </component>
+</project>

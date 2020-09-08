@@ -5,6 +5,7 @@ L = int(input())
 a = list(map(int, input().split()))
 m = int(input())
 a.sort()
+# 있는 그대로 구현시키기
 for _ in range(m):
     a[0] += 1
     a[L - 1] -= 1

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="400f2ce2-452a-42de-88f0-1b5ee3a3d6a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Sample/0.리스트,배열,문자열_2577.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.등산경로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.단지 번호 붙이기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.섬나라 아일랜드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.안전영역.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.토마토.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.사다리타기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.피자 배달 거리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YoutubeAlgorithm/01.숫자의 개수_일반.py" beforeDir="false" afterPath="$PROJECT_DIR$/../YoutubeAlgorithm/01.숫자의 개수_일반.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gJ0Ulwfp1MSMwVHHb0NkPNXCZo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../YoutubeAlgorithm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Github\InfrunAlgorithm\Section7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.17.피자 배달 거리">
+    <configuration name="13.섬나라 아일랜드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.섬나라 아일랜드.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14.안전영역" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14.안전영역.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15.토마토" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15.토마토.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16.사다리타기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16.사다리타기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17.피자 배달 거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17.피자 배달 거리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.17.피자 배달 거리" />
+        <item itemvalue="Python.16.사다리타기" />
+        <item itemvalue="Python.15.토마토" />
+        <item itemvalue="Python.14.안전영역" />
+        <item itemvalue="Python.13.섬나라 아일랜드" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400f2ce2-452a-42de-88f0-1b5ee3a3d6a2" name="Default Changelist" comment="" />
+      <created>1597817405019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597817405019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4549" y="906" key="FileChooserDialogImpl" timestamp="1598946364182">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state x="4549" y="906" key="FileChooserDialogImpl/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1598946364182" />
+    <state width="1837" height="123" key="GridCell.Tab.0.bottom" timestamp="1598792327832">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="123" key="GridCell.Tab.0.bottom/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1598792327832" />
+    <state width="1837" height="123" key="GridCell.Tab.0.center" timestamp="1598792327832">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="123" key="GridCell.Tab.0.center/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1598792327832" />
+    <state width="1837" height="123" key="GridCell.Tab.0.left" timestamp="1598792327832">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="123" key="GridCell.Tab.0.left/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1598792327832" />
+    <state width="1837" height="123" key="GridCell.Tab.0.right" timestamp="1598792327832">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="123" key="GridCell.Tab.0.right/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1598792327832" />
+    <state x="4574" y="1064" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598785813174">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state x="4574" y="1064" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1598785813173" />
+  </component>
+</project>

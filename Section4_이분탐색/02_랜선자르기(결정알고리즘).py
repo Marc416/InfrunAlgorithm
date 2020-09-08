@@ -22,6 +22,7 @@ def Count(length):
     cnt = 0
     for x in line:
         cnt += (x // length)
+
     return cnt
 
 
@@ -38,3 +39,4 @@ while lt <= rt:
         lt = mid + 1
     else:
         rt = mid - 1
+print(res)

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b29dca9-b74b-45ef-98d0-dbb815644dbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Section3/06_BingGoMaxSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section3/07_AppleTreeDiamond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section3/08_GotGoam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section3/09_FindMountain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section3/09_FindMountain_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section3/10_Sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section3/11_CheckRotateNumb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecisionAlgorithm_CutLan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_MusicVideo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_Horse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Conference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_Conference_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_BodyFight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_BodyFight_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_WareHouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_WareHouse_self_Fail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_Tytanic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_IncreaseNumbGreedy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_ReverseNumb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammersTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/.idea/Section3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/.idea/Section3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/05.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/05_SumNumb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/05_SumNumb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section3/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Section3/11.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ffAL2Z2tBucFxqfxt7sCUNYsyu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.ProgrammersTest">
+    <configuration name="07_WareHouse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_WareHouse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08_Tytanic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_Tytanic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09_IncreaseNumbGreedy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_IncreaseNumbGreedy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_ReverseNumb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_ReverseNumb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProgrammersTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Section4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProgrammersTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ProgrammersTest" />
+        <item itemvalue="Python.10_ReverseNumb" />
+        <item itemvalue="Python.09_IncreaseNumbGreedy" />
+        <item itemvalue="Python.08_Tytanic" />
+        <item itemvalue="Python.07_WareHouse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b29dca9-b74b-45ef-98d0-dbb815644dbb" name="Default Changelist" comment="" />
+      <created>1596598713842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596598713842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4548" y="892" key="FileChooserDialogImpl" timestamp="1597059272505">
+      <screen x="3840" y="611" width="1858" height="1080" />
+    </state>
+    <state x="4548" y="892" key="FileChooserDialogImpl/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1597059272505" />
+    <state width="927" height="537" key="GridCell.Tab.0.bottom" timestamp="1597033325509">
+      <screen x="65" y="0" width="2495" height="1440" />
+    </state>
+    <state width="859" height="537" key="GridCell.Tab.0.bottom/0.0.2560.1440/3840.611.1920.1080@0.0.2560.1440" timestamp="1596889524694" />
+    <state width="1837" height="233" key="GridCell.Tab.0.bottom/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596727170384" />
+    <state width="927" height="537" key="GridCell.Tab.0.bottom/65.0.2495.1440/3840.611.1858.1080@65.0.2495.1440" timestamp="1597033325509" />
+    <state width="927" height="537" key="GridCell.Tab.0.center" timestamp="1597033325509">
+      <screen x="65" y="0" width="2495" height="1440" />
+    </state>
+    <state width="859" height="537" key="GridCell.Tab.0.center/0.0.2560.1440/3840.611.1920.1080@0.0.2560.1440" timestamp="1596889524694" />
+    <state width="1837" height="233" key="GridCell.Tab.0.center/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596727170384" />
+    <state width="927" height="537" key="GridCell.Tab.0.center/65.0.2495.1440/3840.611.1858.1080@65.0.2495.1440" timestamp="1597033325509" />
+    <state width="927" height="537" key="GridCell.Tab.0.left" timestamp="1597033325509">
+      <screen x="65" y="0" width="2495" height="1440" />
+    </state>
+    <state width="859" height="537" key="GridCell.Tab.0.left/0.0.2560.1440/3840.611.1920.1080@0.0.2560.1440" timestamp="1596889524694" />
+    <state width="1837" height="233" key="GridCell.Tab.0.left/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596727170384" />
+    <state width="927" height="537" key="GridCell.Tab.0.left/65.0.2495.1440/3840.611.1858.1080@65.0.2495.1440" timestamp="1597033325509" />
+    <state width="927" height="537" key="GridCell.Tab.0.right" timestamp="1597033325509">
+      <screen x="65" y="0" width="2495" height="1440" />
+    </state>
+    <state width="859" height="537" key="GridCell.Tab.0.right/0.0.2560.1440/3840.611.1920.1080@0.0.2560.1440" timestamp="1596889524694" />
+    <state width="1837" height="233" key="GridCell.Tab.0.right/65.0.2495.1440/3840.611.1858.1080@3840.611.1858.1080" timestamp="1596727170384" />
+    <state width="927" height="537" key="GridCell.Tab.0.right/65.0.2495.1440/3840.611.1858.1080@65.0.2495.1440" timestamp="1597033325509" />
+    <state x="1924" y="637" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596884860345">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1924" y="637" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1440/3840.611.1920.1080@0.0.2560.1440" timestamp="1596884860345" />
+  </component>
+</project>
